@@ -1,0 +1,2102 @@
+[
+  {
+    "id": 1,
+    "question": "Why don't skeletons fight each other?",
+    "answer": "They don't have the guts.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 2,
+    "question": "I'm reading a book on anti-gravity. It's impossible to put down.",
+    "answer": "",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 3,
+    "question": "Why did the scarecrow win an award?",
+    "answer": "Because he was outstanding in his field.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 4,
+    "question": "I only know 25 letters of the alphabet. I don't know y.",
+    "answer": "",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 5,
+    "question": "Why did the coffee file a police report?",
+    "answer": "It got mugged.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 6,
+    "question": "What do you call fake spaghetti?",
+    "answer": "An impasta.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 7,
+    "question": "Why did the golfer bring two pairs of pants?",
+    "answer": "In case he got a hole in one.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 8,
+    "question": "Why can't your nose be 12 inches long?",
+    "answer": "Because then it would be a foot.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 9,
+    "question": "I used to hate facial hair, but then it grew on me.",
+    "answer": "",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 10,
+    "question": "Why did the bicycle fall over?",
+    "answer": "Because it was two-tired.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 11,
+    "question": "What do you call cheese that isn't yours?",
+    "answer": "Nacho cheese.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 12,
+    "question": "I would tell you a construction joke, but I'm still working on it.",
+    "answer": "",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 13,
+    "question": "Why don't eggs tell jokes?",
+    "answer": "They'd crack each other up.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 14,
+    "question": "I'm on a seafood diet. I see food and I eat it.",
+    "answer": "",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 15,
+    "question": "Why did the tomato blush?",
+    "answer": "Because it saw the salad dressing.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 16,
+    "question": "What do you call a belt made of watches?",
+    "answer": "A waist of time.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 17,
+    "question": "Why did the cookie go to the doctor?",
+    "answer": "It felt crummy.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 18,
+    "question": "Why did the orange stop rolling?",
+    "answer": "It ran out of juice.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 19,
+    "question": "Why did the banana go to the doctor?",
+    "answer": "It wasn't peeling well.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 20,
+    "question": "Why was the broom late?",
+    "answer": "It swept in.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 21,
+    "question": "Why was the calendar nervous?",
+    "answer": "Its days were numbered.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 22,
+    "question": "Why did the man put his money in the freezer?",
+    "answer": "He wanted cold hard cash.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 23,
+    "question": "Why did the picture go to jail?",
+    "answer": "It was framed.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 24,
+    "question": "Why did the stadium get hot?",
+    "answer": "All the fans left.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 25,
+    "question": "Why did the belt get arrested?",
+    "answer": "It held up a pair of pants.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 26,
+    "question": "Why did the can crusher quit?",
+    "answer": "It was soda pressing.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 27,
+    "question": "Why was the math lecture so long?",
+    "answer": "The professor kept going off on tangents.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 28,
+    "question": "Why did the clock get sent to the principal?",
+    "answer": "It tocked too much.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 29,
+    "question": "Why did the mushroom get invited to parties?",
+    "answer": "Because he was a fungi.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 30,
+    "question": "Why did the lemon stop halfway?",
+    "answer": "It ran out of zest.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 31,
+    "question": "What do you call a factory that makes okay products?",
+    "answer": "A satisfactory.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 32,
+    "question": "Why did the door win an award?",
+    "answer": "It was outstanding in its frame.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 33,
+    "question": "Why was the elevator so good at jokes?",
+    "answer": "It had great timing on every level.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 34,
+    "question": "Why did the chair feel left out?",
+    "answer": "Everyone kept taking a seat.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 35,
+    "question": "What do you call a nervous javelin thrower?",
+    "answer": "Shakespeare.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 36,
+    "question": "Why did the lamp feel bright?",
+    "answer": "It had a brilliant idea.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 37,
+    "question": "Why did the paper win the race?",
+    "answer": "It had a tearable speed.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 38,
+    "question": "Why did the bread break up with butter?",
+    "answer": "It found someone butter.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 39,
+    "question": "Why did the peanut go to space?",
+    "answer": "To visit the Milky Way.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 40,
+    "question": "Why did the grape stop in the middle of the road?",
+    "answer": "It ran out of wine.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 41,
+    "question": "Why was the book always calm?",
+    "answer": "It had a lot of spine.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 42,
+    "question": "Why did the shoe go to therapy?",
+    "answer": "It had sole issues.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 43,
+    "question": "Why did the ladder get promoted?",
+    "answer": "It was a step above the rest.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 44,
+    "question": "Why did the donut visit the dentist?",
+    "answer": "It needed a filling.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 45,
+    "question": "Why did the musician bring a ladder?",
+    "answer": "To reach the high notes.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 46,
+    "question": "Why did the suitcase feel tired?",
+    "answer": "It was packed.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 47,
+    "question": "Why did the ocean say nothing?",
+    "answer": "It just waved.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 48,
+    "question": "Why did the snowman look through carrots?",
+    "answer": "He was picking his nose.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 49,
+    "question": "Why did the computer need a snack?",
+    "answer": "It had too many chips.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 50,
+    "question": "What do you call a fish with no eyes?",
+    "answer": "Fsh.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 51,
+    "question": "Why did the barber win the race?",
+    "answer": "He knew all the shortcuts.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 52,
+    "question": "Why did the garden get invited?",
+    "answer": "It was growing on everyone.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 53,
+    "question": "Why did the pillow go to school?",
+    "answer": "To improve its rest marks.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 54,
+    "question": "Why did the fence go to class?",
+    "answer": "It wanted to be board certified.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 55,
+    "question": "Why did the soap get promoted?",
+    "answer": "It cleaned up nicely.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 56,
+    "question": "Why did the watch go on vacation?",
+    "answer": "It needed time off.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 57,
+    "question": "Why did the pizza apply for a job?",
+    "answer": "It wanted a better slice of life.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 58,
+    "question": "Why did the refrigerator blush?",
+    "answer": "It saw the salad dressing.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 59,
+    "question": "Why was the pencil sad?",
+    "answer": "It felt pointless.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 60,
+    "question": "Why did the vacuum break up?",
+    "answer": "It needed space.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 61,
+    "question": "Why did the candle quit?",
+    "answer": "It was burned out.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 62,
+    "question": "Why did the blanket get a medal?",
+    "answer": "It had everyone covered.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 63,
+    "question": "Why did the fork feel famous?",
+    "answer": "It was in every dish.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 64,
+    "question": "Why did the mirror smile?",
+    "answer": "It saw something funny.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 65,
+    "question": "Why did the keyboard start exercising?",
+    "answer": "It wanted to stay in shape.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 66,
+    "question": "Why did the hat go to work?",
+    "answer": "It wanted to get ahead.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 67,
+    "question": "Why did the cereal go to court?",
+    "answer": "It was accused of being flaky.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 68,
+    "question": "Why did the clock get promoted?",
+    "answer": "It was always on time.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 69,
+    "question": "Why did the shoe store close early?",
+    "answer": "It lost its sole purpose.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 70,
+    "question": "Why did the soda go to school?",
+    "answer": "It wanted to be a pop quiz.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 71,
+    "question": "Why did the cloud start a business?",
+    "answer": "It had a lot of overhead.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 72,
+    "question": "Why did the pencil sharpener get applause?",
+    "answer": "It made a good point.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 73,
+    "question": "Why did the sandwich get a raise?",
+    "answer": "It was on a roll.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 74,
+    "question": "Why did the cup go to therapy?",
+    "answer": "It was feeling empty.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 75,
+    "question": "Why did the umbrella get invited?",
+    "answer": "It brought shade.",
+    "category": "Dad Jokes",
+    "image": "assets/images_opt/dad_jokes.png"
+  },
+  {
+    "id": 76,
+    "question": "Why did the student eat his homework?",
+    "answer": "Because the teacher said it was a piece of cake.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 77,
+    "question": "Why was the math teacher late?",
+    "answer": "She took the rhombus.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 78,
+    "question": "Why did the computer go to school?",
+    "answer": "To improve its byte.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 79,
+    "question": "Why did the student bring a ladder to school?",
+    "answer": "To go to high school.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 80,
+    "question": "Why was the teacher wearing sunglasses?",
+    "answer": "Because her students were so bright.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 81,
+    "question": "Why can't you trust atoms?",
+    "answer": "Because they make up everything.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 82,
+    "question": "What’s the king of all school supplies?",
+    "answer": "The ruler.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 83,
+    "question": "Why was the geometry book always tired?",
+    "answer": "It had too many angles.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 84,
+    "question": "Why did the student study in the airplane?",
+    "answer": "For higher grades.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 85,
+    "question": "Why did the pencil get in trouble?",
+    "answer": "Because it was pointless.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 86,
+    "question": "Why did the book go to the nurse?",
+    "answer": "It had a broken spine.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 87,
+    "question": "Why did the music teacher need a ladder?",
+    "answer": "To reach the high notes.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 88,
+    "question": "Why was the history teacher so calm?",
+    "answer": "She had a lot of past experience.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 89,
+    "question": "Why did the student bring a string to school?",
+    "answer": "To tie up loose ends.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 90,
+    "question": "Why did the science book explode?",
+    "answer": "It had too much chemistry.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 91,
+    "question": "Why did the English teacher go to jail?",
+    "answer": "For improper sentences.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 92,
+    "question": "Why did the student sleep in class?",
+    "answer": "He wanted to follow his dream.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 93,
+    "question": "Why was the math classroom full of plants?",
+    "answer": "Because it had square roots.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 94,
+    "question": "Why did the chalk break?",
+    "answer": "It couldn't handle the pressure.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 95,
+    "question": "Why was the school cafeteria so noisy?",
+    "answer": "Everyone had a lot on their plate.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 96,
+    "question": "Why did the student bring a flashlight?",
+    "answer": "Because the future looked bright.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 97,
+    "question": "What is a teacher’s favorite nation?",
+    "answer": "Expla-nation.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 98,
+    "question": "Why did the student bring a shovel to class?",
+    "answer": "To dig into the lesson.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 99,
+    "question": "Why was the principal good at baseball?",
+    "answer": "He knew how to handle pitches.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 100,
+    "question": "Why did the student take a ruler to bed?",
+    "answer": "To see how long he slept.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 101,
+    "question": "Why did the paper get good grades?",
+    "answer": "It was well written.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 102,
+    "question": "Why was the backpack always tired?",
+    "answer": "It carried too much responsibility.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 103,
+    "question": "Why did the eraser feel proud?",
+    "answer": "It corrected mistakes.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 104,
+    "question": "Why did the glue get detention?",
+    "answer": "It kept sticking around.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 105,
+    "question": "Why was the science teacher always calm?",
+    "answer": "She had solutions.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 106,
+    "question": "Why did the student bring a mirror to class?",
+    "answer": "To reflect on learning.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 107,
+    "question": "Why did the desk get promoted?",
+    "answer": "It supported everyone.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 108,
+    "question": "Why did the teacher love the ocean?",
+    "answer": "It had great current events.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 109,
+    "question": "Why was the art class quiet?",
+    "answer": "Everyone was drawn in.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 110,
+    "question": "Why did the calculator feel smart?",
+    "answer": "It could always count on itself.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 111,
+    "question": "Why did the ruler become famous?",
+    "answer": "It measured up.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 112,
+    "question": "Why was the notebook confident?",
+    "answer": "It had all the answers written down.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 113,
+    "question": "Why did the map go to school?",
+    "answer": "To learn directions.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 114,
+    "question": "Why did the pen win an award?",
+    "answer": "It made a mark.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 115,
+    "question": "Why did the student wear glasses to math?",
+    "answer": "To improve division.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 116,
+    "question": "Why was the computer lab cold?",
+    "answer": "Someone left Windows open.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 117,
+    "question": "Why did the teacher bring a broom?",
+    "answer": "To sweep through the lesson.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 118,
+    "question": "Why did the class love the clock?",
+    "answer": "It made time fly.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 119,
+    "question": "Why did the student bring a pillow?",
+    "answer": "For a crash course.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 120,
+    "question": "Why did the chalkboard get embarrassed?",
+    "answer": "It was being watched by the whole class.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 121,
+    "question": "Why was the spelling test nervous?",
+    "answer": "It didn't want to be mistaken.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 122,
+    "question": "Why did the student bring a map to English?",
+    "answer": "To find the plot.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 123,
+    "question": "Why did the library books stay quiet?",
+    "answer": "They didn’t want to be checked out.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 124,
+    "question": "Why did the math teacher like parks?",
+    "answer": "Lots of natural logs.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 125,
+    "question": "Why was the chemistry test so cool?",
+    "answer": "It had good reactions.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 126,
+    "question": "Why did the student bring headphones?",
+    "answer": "To listen to the lesson plan.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 127,
+    "question": "Why did the class go outside?",
+    "answer": "To get fresh ideas.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 128,
+    "question": "Why did the teacher write on the window?",
+    "answer": "The lesson was clear.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 129,
+    "question": "Why was the school bell popular?",
+    "answer": "It had perfect timing.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 130,
+    "question": "Why did the student take notes on a ladder?",
+    "answer": "To reach new heights.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 131,
+    "question": "Why did the pencil case feel important?",
+    "answer": "It held everything together.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 132,
+    "question": "Why did the teacher like jokes?",
+    "answer": "They helped the lesson click.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 133,
+    "question": "Why did the worksheet smile?",
+    "answer": "It was completed.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 134,
+    "question": "Why did the student bring tape?",
+    "answer": "To stick with the program.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 135,
+    "question": "Why was the classroom door smart?",
+    "answer": "It knew when to open up.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 136,
+    "question": "Why did the globe get dizzy?",
+    "answer": "Too much world history.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 137,
+    "question": "Why was the assignment confident?",
+    "answer": "It was turned in on time.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 138,
+    "question": "Why did the textbook go on vacation?",
+    "answer": "It needed a break between chapters.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 139,
+    "question": "Why did the student bring a compass?",
+    "answer": "To find the right direction.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 140,
+    "question": "Why did the quiz feel nervous?",
+    "answer": "It was being tested.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 141,
+    "question": "Why did the teacher love coffee?",
+    "answer": "It helped with class grind.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 142,
+    "question": "Why did the student bring a camera?",
+    "answer": "To capture the lesson.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 143,
+    "question": "Why did the stapler feel useful?",
+    "answer": "It kept things together.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 144,
+    "question": "Why did the hallway feel popular?",
+    "answer": "Everyone passed through it.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 145,
+    "question": "Why did the student bring a fan?",
+    "answer": "Because the class was cool.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 146,
+    "question": "Why did the whiteboard get cleaned?",
+    "answer": "It wanted a fresh start.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 147,
+    "question": "Why did the backpack win an award?",
+    "answer": "It carried the team.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 148,
+    "question": "Why did the math problem smile?",
+    "answer": "It found a solution.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 149,
+    "question": "Why was the school newspaper proud?",
+    "answer": "It made headlines.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 150,
+    "question": "Why did the student bring snacks to science?",
+    "answer": "For a lab report.",
+    "category": "School Jokes",
+    "image": "assets/images_opt/school_jokes.png"
+  },
+  {
+    "id": 151,
+    "question": "Why don’t elephants use computers?",
+    "answer": "They’re afraid of the mouse.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 152,
+    "question": "What do you call a bear with no teeth?",
+    "answer": "A gummy bear.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 153,
+    "question": "Why do cows have hooves instead of feet?",
+    "answer": "Because they lactose.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 154,
+    "question": "What do you call a sleeping bull?",
+    "answer": "A bulldozer.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 155,
+    "question": "Why are fish so smart?",
+    "answer": "Because they live in schools.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 156,
+    "question": "What do you call a dog magician?",
+    "answer": "A labracadabrador.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 157,
+    "question": "Why don’t ants get sick?",
+    "answer": "They have tiny ant-bodies.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 158,
+    "question": "What do you call a lazy kangaroo?",
+    "answer": "A pouch potato.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 159,
+    "question": "Why did the cat sit on the computer?",
+    "answer": "To keep an eye on the mouse.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 160,
+    "question": "What do you call a pig that does karate?",
+    "answer": "A pork chop.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 161,
+    "question": "Why did the duck get a promotion?",
+    "answer": "Because he was quacking good ideas.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 162,
+    "question": "What do you call a fish wearing a bowtie?",
+    "answer": "Sofishticated.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 163,
+    "question": "What do you call an alligator in a vest?",
+    "answer": "An investigator.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 164,
+    "question": "Why did the horse go behind the tree?",
+    "answer": "To change his jockeys.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 165,
+    "question": "Why did the dog sit in the shade?",
+    "answer": "Because he didn’t want to be a hot dog.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 166,
+    "question": "Why was the cat so good at video games?",
+    "answer": "It had nine lives.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 167,
+    "question": "Why did the cow become an astronaut?",
+    "answer": "To see the moooon.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 168,
+    "question": "Why did the bee get married?",
+    "answer": "Because it found its honey.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 169,
+    "question": "Why was the rabbit so lucky?",
+    "answer": "It had four rabbit feet.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 170,
+    "question": "Why did the bird go to the hospital?",
+    "answer": "It needed tweetment.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 171,
+    "question": "Why did the owl become a detective?",
+    "answer": "It always asked who.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 172,
+    "question": "Why did the frog take the bus?",
+    "answer": "His car got toad.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 173,
+    "question": "Why did the chicken join a band?",
+    "answer": "It had drumsticks.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 174,
+    "question": "Why did the sheep start a band?",
+    "answer": "It had great baaa-s.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 175,
+    "question": "Why did the giraffe get bad grades?",
+    "answer": "Its head was in the clouds.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 176,
+    "question": "Why did the turtle cross the road?",
+    "answer": "To get to the shell station.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 177,
+    "question": "Why did the fish blush?",
+    "answer": "It saw the ocean’s bottom.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 178,
+    "question": "Why did the cow wear a bell?",
+    "answer": "Its horns didn’t work.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 179,
+    "question": "Why was the dog a great storyteller?",
+    "answer": "It had a lot of tails.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 180,
+    "question": "Why was the cat bad at poker?",
+    "answer": "It was a cheetah.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 181,
+    "question": "Why did the goat become famous?",
+    "answer": "It was the greatest of all time.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 182,
+    "question": "Why did the bear bring a ladder?",
+    "answer": "To reach the honey shelf.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 183,
+    "question": "Why did the penguin carry a suitcase?",
+    "answer": "It was going on ice vacation.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 184,
+    "question": "Why did the zebra lose at hide-and-seek?",
+    "answer": "It was always spotted.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 185,
+    "question": "Why did the lion eat the tightrope walker?",
+    "answer": "He wanted a balanced meal.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 186,
+    "question": "Why did the crab never share?",
+    "answer": "Because it was shellfish.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 187,
+    "question": "Why did the duck buy lipstick?",
+    "answer": "To put it on its bill.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 188,
+    "question": "Why did the dog become a plumber?",
+    "answer": "It was good with leaks.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 189,
+    "question": "Why did the cat open a bakery?",
+    "answer": "It made purr-fect pastries.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 190,
+    "question": "Why did the horse become a DJ?",
+    "answer": "It had stable beats.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 191,
+    "question": "Why did the cow become a gardener?",
+    "answer": "It had green hooves.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 192,
+    "question": "Why did the fish become a singer?",
+    "answer": "It had great scales.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 193,
+    "question": "Why did the monkey like bananas?",
+    "answer": "They had appeal.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 194,
+    "question": "Why did the snail paint an S on its car?",
+    "answer": "So people would say 'look at that S-car-go!'",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 195,
+    "question": "Why did the llama start a podcast?",
+    "answer": "It had drama to share.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 196,
+    "question": "Why did the squirrel bring a suitcase?",
+    "answer": "It was nuts about travel.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 197,
+    "question": "Why did the rabbit open a gym?",
+    "answer": "It was good at hopping classes.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 198,
+    "question": "Why did the flamingo stand on one leg?",
+    "answer": "If it lifted both, it would fall.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 199,
+    "question": "Why did the bear avoid fast food?",
+    "answer": "It couldn’t catch it.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 200,
+    "question": "Why did the dog chase his tail?",
+    "answer": "He wanted to make ends meet.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 201,
+    "question": "Why did the cat love music?",
+    "answer": "It liked meow-sic.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 202,
+    "question": "Why did the fish dislike basketball?",
+    "answer": "It was afraid of the net.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 203,
+    "question": "Why did the chicken cross the playground?",
+    "answer": "To get to the other slide.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 204,
+    "question": "Why did the cow go to New York?",
+    "answer": "To see the moosical.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 205,
+    "question": "Why did the dog do well in school?",
+    "answer": "It was the teacher’s pet.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 206,
+    "question": "Why did the cat become a lawyer?",
+    "answer": "It was good at claw-ses.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 207,
+    "question": "Why did the shark become a comedian?",
+    "answer": "It had biting humor.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 208,
+    "question": "Why did the elephant bring a suitcase?",
+    "answer": "It packed its trunk.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 209,
+    "question": "Why did the bird get a promotion?",
+    "answer": "It soared above expectations.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 210,
+    "question": "Why did the sheep bring a pencil?",
+    "answer": "To draw ewe-nicorns.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 211,
+    "question": "Why did the goat climb the mountain?",
+    "answer": "It wanted to be outstanding in its field.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 212,
+    "question": "Why did the crab bring a map?",
+    "answer": "It was going sideways.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 213,
+    "question": "Why did the pig open a restaurant?",
+    "answer": "It knew how to bring home the bacon.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 214,
+    "question": "Why did the duck go to the bank?",
+    "answer": "To check his bill.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 215,
+    "question": "Why did the turtle become a teacher?",
+    "answer": "It had patience.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 216,
+    "question": "Why did the owl start a company?",
+    "answer": "It had wise investments.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 217,
+    "question": "Why did the dog bring a pencil?",
+    "answer": "To draw attention.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 218,
+    "question": "Why did the hamster become a runner?",
+    "answer": "It was always on the wheel.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 219,
+    "question": "Why did the cat like computers?",
+    "answer": "It loved the mouse.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 220,
+    "question": "Why did the cow become a comedian?",
+    "answer": "It had udderly funny jokes.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 221,
+    "question": "Why did the frog smile?",
+    "answer": "It was hoppy.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 222,
+    "question": "Why did the penguin tell jokes?",
+    "answer": "To break the ice.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 223,
+    "question": "Why did the horse like math?",
+    "answer": "It was good at stable calculations.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 224,
+    "question": "Why did the dog bring a phone?",
+    "answer": "To make collar ID calls.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 225,
+    "question": "Why did the cat hate rain?",
+    "answer": "It didn’t want to be a wet purrito.",
+    "category": "Animal Jokes",
+    "image": "assets/images_opt/animal_jokes.png"
+  },
+  {
+    "id": 226,
+    "question": "Why do programmers prefer dark mode?",
+    "answer": "Because light attracts bugs.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 227,
+    "question": "Why did the developer go broke?",
+    "answer": "Because he used up all his cache.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 228,
+    "question": "Why was the computer cold?",
+    "answer": "It forgot to close its Windows.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 229,
+    "question": "Why do Java developers wear glasses?",
+    "answer": "Because they don’t see sharp.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 230,
+    "question": "Why was the computer tired?",
+    "answer": "Too many tabs open.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 231,
+    "question": "Why did the smartphone need glasses?",
+    "answer": "It lost its contacts.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 232,
+    "question": "Why don’t programmers like nature?",
+    "answer": "Too many bugs.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 233,
+    "question": "Why did the server break up with the client?",
+    "answer": "Too many requests.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 234,
+    "question": "Why was the keyboard tired?",
+    "answer": "Too many shifts.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 235,
+    "question": "Why did the computer show up late?",
+    "answer": "It had a hard drive.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 236,
+    "question": "Why did the programmer quit?",
+    "answer": "Because he didn’t get arrays.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 237,
+    "question": "Why did the computer sneeze?",
+    "answer": "It had a virus.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 238,
+    "question": "Why don’t robots get scared?",
+    "answer": "They have nerves of steel.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 239,
+    "question": "Why did the WiFi break up?",
+    "answer": "Too many connections.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 240,
+    "question": "Why did the coder stay calm?",
+    "answer": "Because he had exception handling.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 241,
+    "question": "Why did the database feel lonely?",
+    "answer": "It had no relations.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 242,
+    "question": "Why did the app go to therapy?",
+    "answer": "It had too many issues.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 243,
+    "question": "Why did the laptop go to sleep?",
+    "answer": "It needed a reboot.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 244,
+    "question": "Why was the website embarrassed?",
+    "answer": "It had a bad layout.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 245,
+    "question": "Why did the bug get invited?",
+    "answer": "It was part of the feature.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 246,
+    "question": "Why did the developer bring a ladder?",
+    "answer": "To reach the cloud.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 247,
+    "question": "Why did the password go to school?",
+    "answer": "To become stronger.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 248,
+    "question": "Why was the router popular?",
+    "answer": "It knew how to connect people.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 249,
+    "question": "Why did the computer keep dancing?",
+    "answer": "It had a good byte.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 250,
+    "question": "Why was the hard drive nervous?",
+    "answer": "It had too many sectors.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 251,
+    "question": "Why did the coder love coffee?",
+    "answer": "It helped them Java.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 252,
+    "question": "Why did the browser need a doctor?",
+    "answer": "It had too many cookies.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 253,
+    "question": "Why did the smartphone go to the gym?",
+    "answer": "To get more apps.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 254,
+    "question": "Why did the robot go on vacation?",
+    "answer": "It needed to recharge.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 255,
+    "question": "Why did the developer dislike elevators?",
+    "answer": "Too many callbacks.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 256,
+    "question": "Why did the website go down?",
+    "answer": "It couldn’t handle the traffic.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 257,
+    "question": "Why did the AI cross the road?",
+    "answer": "It was trained on chicken data.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 258,
+    "question": "Why did the programmer bring a map?",
+    "answer": "To find the main branch.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 259,
+    "question": "Why did the CSS file get promoted?",
+    "answer": "It had style.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 260,
+    "question": "Why did the HTML tag feel lonely?",
+    "answer": "It needed a body.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 261,
+    "question": "Why did the developer love camping?",
+    "answer": "They liked sleeping under the stars and debugging by firelight.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 262,
+    "question": "Why did the server need a blanket?",
+    "answer": "It caught a cold request.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 263,
+    "question": "Why did the phone feel insecure?",
+    "answer": "It had no case.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 264,
+    "question": "Why did the cloud get in trouble?",
+    "answer": "It was storing too much drama.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 265,
+    "question": "Why did the command line feel powerful?",
+    "answer": "It had arguments.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 266,
+    "question": "Why did the mouse become a detective?",
+    "answer": "It clicked with the case.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 267,
+    "question": "Why did the monitor get glasses?",
+    "answer": "It wanted better resolution.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 268,
+    "question": "Why did the programmer always mix up Halloween and Christmas?",
+    "answer": "Because Oct 31 equals Dec 25.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 269,
+    "question": "Why did the developer hate stairs?",
+    "answer": "Too many steps to reproduce.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 270,
+    "question": "Why did the algorithm go to the gym?",
+    "answer": "It wanted better runtime.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 271,
+    "question": "Why did the function break up?",
+    "answer": "It had no return.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 272,
+    "question": "Why did the variable feel unstable?",
+    "answer": "It kept changing.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 273,
+    "question": "Why did the computer love snacks?",
+    "answer": "It had chips.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 274,
+    "question": "Why did the user get lost?",
+    "answer": "The UI had no direction.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 275,
+    "question": "Why did the update take forever?",
+    "answer": "It was installing patience.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 276,
+    "question": "Why did the coder hate the ocean?",
+    "answer": "Too many C's.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 277,
+    "question": "Why did the phone go broke?",
+    "answer": "It lost its charge.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 278,
+    "question": "Why did the code blush?",
+    "answer": "It saw the compiler.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 279,
+    "question": "Why did the developer bring a broom?",
+    "answer": "To clean the code.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 280,
+    "question": "Why did the app feel popular?",
+    "answer": "Everyone kept tapping it.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 281,
+    "question": "Why did the firewall get hired?",
+    "answer": "It had strong boundaries.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 282,
+    "question": "Why did the computer wear shoes?",
+    "answer": "To boot up.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 283,
+    "question": "Why did the keyboard start a band?",
+    "answer": "It had the keys.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 284,
+    "question": "Why did the software engineer go outside?",
+    "answer": "To get a fresh interface.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 285,
+    "question": "Why did the API feel tired?",
+    "answer": "Too many calls.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 286,
+    "question": "Why did the debugger go to lunch?",
+    "answer": "It needed a break point.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 287,
+    "question": "Why did the database go camping?",
+    "answer": "It wanted to make table joins.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 288,
+    "question": "Why did the app get applause?",
+    "answer": "It had a smooth launch.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 289,
+    "question": "Why did the smartphone feel proud?",
+    "answer": "It was outstanding in its field of apps.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 290,
+    "question": "Why did the programmer take a nap?",
+    "answer": "To process in the background.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 291,
+    "question": "Why did the file hide?",
+    "answer": "It was compressed.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 292,
+    "question": "Why did the screen feel bright?",
+    "answer": "It had a pixel-perfect day.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 293,
+    "question": "Why did the developer like tea?",
+    "answer": "It came with proper-teas.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 294,
+    "question": "Why did the bug survive?",
+    "answer": "It was undocumented.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 295,
+    "question": "Why did the code go to court?",
+    "answer": "It had a class action.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 296,
+    "question": "Why did the laptop feel hot?",
+    "answer": "It was under pressure.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 297,
+    "question": "Why did the browser feel fancy?",
+    "answer": "It had extensions.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 298,
+    "question": "Why did the user smile?",
+    "answer": "The button finally worked.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 299,
+    "question": "Why did the app wear a helmet?",
+    "answer": "It expected crashes.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  },
+  {
+    "id": 300,
+    "question": "Why did the robot tell jokes?",
+    "answer": "It had artificial pun-telligence.",
+    "category": "Tech Jokes",
+    "image": "assets/images_opt/tech_jokes.png"
+  }
+]
